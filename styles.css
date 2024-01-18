@@ -1,0 +1,65 @@
+.linkmenu{
+  color: blueviolet;
+  font-size: xx-large;
+  margin-left: 70px;
+  margin-right: 60px;
+  margin-top: 20px;
+}
+body{
+  background-color: bisque;
+  font-style: italic;
+  font-style: oblique;
+}
+.title{
+  text-align: center;
+}
+.meaning{
+  margin-left: 360px;
+}
+.definition{
+  font-size: xx-large;
+  color: brown;
+}
+.Ar{
+  text-align: center;
+  font-size: xx-large;
+}
+.Art{
+  text-align: center;
+  font-size: x-large;
+}
+.img1{
+  height: 9cm;
+  width: 14cm;
+}
+.mol{
+  font-weight: bolder;
+  font-size: x-large;
+}
+.flask{
+  width: 250px;
+  height: 180px;
+}
+.gt1{
+  width: 250px;
+  height: 200px;
+}
+.gt2{
+  width: 350px;
+  height: 200px;
+}
+.vs{
+  width: auto;
+  height: auto;
+  margin-left: 12%;
+  margin-right: 5%;
+  margin-top: 30px;
+}
+.thirtheen{
+  width: 800px;
+  height: 450px;
+  margin-top: 5%;
+}
+.PP{
+  font-size: 50px;
+}
